@@ -1,16 +1,22 @@
-👋 Hi, I'm Svitlana Shumal👋
+👋 Hi, I'm Svitlana Shumal
+Junior Fullstack Developer | React | Node.js
+Welcome to my GitHub profile! I am a motivated junior Fullstack developer. I recently graduated from GoIT. I create real projects using React, Node.js, JavaScript, HTML and CSS. I am constantly improving my skills, exploring new technologies and looking for opportunities for collaboration and development.
 
-<!--
-**svitlana-shumal/svitlana-shumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Skills
+JavaScript | TypeScript | Node.js | React | Next.js
 
-Here are some ideas to get you started:
+💻Featured Projects
+👥 Team Projects
+Booksy – a responsive single-page book catalog website with dynamic content and engaging user experiences. Built with React, REST API, and localStorage. Implemented features include book search, detailed book information, and add to cart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Clothica – a multi-page responsive clothing store website, created as an MVP. The project implements a product catalog, shopping cart, order processing, authorization, and a personal account.
+
+💻 Personal Project
+Image Search Application – an interactive web app that fetches and renders images from a REST API, providing users with smooth search functionality and dynamic content display.
+🗣️ Languages
+English
+
+Ukrainian
+
+📫 How to reach me:
+LinkedIn | Telegram | Email
