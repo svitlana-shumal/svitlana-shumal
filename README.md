@@ -28,4 +28,4 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ## 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/svitlana-shumal/) | [Telegram]([@shumal_svitlana](https://web.telegram.org/k/#@shumal_svitlana)) | [Email](svetlankachajka@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/svitlana-shumal/) | [Telegram](https://web.telegram.org/k/#@shumal_svitlana) | [Email](svetlankachajka@gmail.com)
