@@ -9,7 +9,24 @@ I am constantly improving my skills, exploring new technologies and looking for 
 
 ## 🛠 Skills
 
-JavaScript | TypeScript | Node.js | React | Next.js
+# *Frontend*
+![HTML5](https://img.shields.io/badge/HTML5-20232A?logo=HTML5)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?logo=JavaScript)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?logo=Next.js)
+
+# *Backend*
+![Node.js](https://img.shields.io/badge/Node.js-20232A?logo=Node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?logo=MongoDb)
+![Express](https://img.shields.io/badge/Express-20232A?logo=Express)
+
+# *Tools*
+![Git](https://img.shields.io/badge/Git-20232A?logo=Git)
+![Figma](https://img.shields.io/badge/Figma-20232A?logo=Figma)
+![Trello](https://img.shields.io/badge/Trello-20232A?logo=Trello)
+![VC Code](https://img.shields.io/badge/VCCode-20232A?logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-20232A?logo=Postman)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?logo=Vercel)
 
 
 ## 💻Featured Projects 
