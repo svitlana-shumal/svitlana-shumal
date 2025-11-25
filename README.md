@@ -11,7 +11,9 @@ I am constantly improving my skills, exploring new technologies and looking for 
 
 # *Frontend*
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?logo=CSS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?logo=TypeScript)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?logo=Next.js)
 
@@ -24,7 +26,7 @@ I am constantly improving my skills, exploring new technologies and looking for 
 ![Git](https://img.shields.io/badge/Git-20232A?logo=Git)
 ![Figma](https://img.shields.io/badge/Figma-20232A?logo=Figma)
 ![Trello](https://img.shields.io/badge/Trello-20232A?logo=Trello)
-![VC Code](https://img.shields.io/badge/VCCode-20232A?logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS%20Code-20232A?logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-20232A?logo=Postman)
 ![Vercel](https://img.shields.io/badge/Vercel-20232A?logo=Vercel)
 
